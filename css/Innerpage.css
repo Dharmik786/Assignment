@@ -1,0 +1,115 @@
+section
+{
+    display: flex;
+    flex-direction: column;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 60px;
+    /* border: 2px solid black; */
+}
+.menu-bar{
+   margin-top: 15px;
+   margin-left: 29px;
+   width: 30px;
+   height: 30px;
+}
+.header-logo{
+    margin-top: 15px;
+   margin-left: 25px;
+   width: 140px;
+   height: 30px;
+
+}
+.search-icon{
+    margin-top: 17px;
+   margin-left: 50px;
+    width: 20px;
+    height: 24px;
+}
+.search-box{
+    margin-top: 17px;
+    margin-left :15px;
+    width: auto;
+    height: 21px;
+
+}
+.right-header{
+    display: flex;
+    flex-direction: row;
+}
+.bell{
+    margin-top: 15px;
+    height: 35px;
+    width: 25px;
+    margin-left: 815px;
+}
+.profile-pic{
+    margin-top: 15px;
+    margin-left: 15px;
+    height: 35px;
+    width: 35px;
+}
+span{
+    width: 75px;
+    height: 15px;
+    margin-top: 23px;
+    margin-left: 15px;
+    font-size: 18px;   
+}
+.downward-arrow{
+    margin-top: 24px;
+    width: 18px;
+    height: 18px;
+}
+/* ---------------------------left bar----------------------- */
+.Second-row{
+    display: flex;
+    flex-direction: row;
+}
+.left-bar{
+    width: 242px;
+    height: 100%;
+    margin-top: 15px;
+    /* border: 2px solid red;   */
+    /* display: flex; */
+    /* flex-direction: column; */
+}
+.slide-item-active{
+    color: #C8242F;
+    background-color: #FFF3F4;
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 183px;
+    height: 43px;
+}
+.slide-item{
+    background-color: #FFF;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 183px;
+    height: 43px;
+}
+.span2 
+{
+    width: 75px;
+    height: 15px;
+    margin-top: 10px;
+    margin-left: 0px;
+    font-size: 20px;
+}
+.icon{
+    /* width: 18px; */
+    /* height: 18px; */
+    margin-top: 10px;
+        width: 54px;
+        height: 21px;
+
+}
